@@ -1,0 +1,80 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.header{
+  background-image:url("Hometown.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:400px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+
+.head{
+  font-size:50px;
+}
+
+.para{
+  font-size:20px;
+  width:400px;
+  text-align:center;
+}
+
+.main-sec{
+  background-color:rgb(241, 241, 138);
+}
+
+.palace-img{
+  border-radius:50%;
+  width:50px;
+  height:50px;
+}
+
+
+.flex-div{
+  display:flex;
+  text-align:center;
+  margin-top:14px;
+}
+
+.img-head{
+  margin-top:12px;
+  margin-bottom:4px;
+}
+
+.img-para{
+  margin-top:5px;
+  margin-bottom:12px;
+}
+
+.sec-top-head{
+  text-align:center;
+}
+
+.my-img{
+  width:350px;
+  height:300px;
+}
+
+
+.my-sec{
+  background-color:blue;
+  width:370px;
+  height:350px;
+    display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  margin-bottom:50px;
+}
+
+.my-sec-cnt{
+  display:flex;
+  justify-content:center;
+  margin-top:20px;
+}
